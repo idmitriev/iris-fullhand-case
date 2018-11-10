@@ -2,7 +2,7 @@ Iris Fullhand Keyboard Case
 ===========================
 Get switchplate files from the [original case](https://github.com/keebio/iris-case).
 
-<img src="https://raw.githubusercontent.com/idmitriev/iris-fullhand-case/master/glamshot.png"/>
+<img src="https://raw.githubusercontent.com/idmitriev/iris-fullhand-case/master/glamshot.jpg"/>
 
 Layer thickness
 ---------------
